@@ -1,7 +1,7 @@
 ![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)
 <h1 align="center">Hi 👋, I'm Farzan Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding width="300" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
+<img align="right" alt="Coding width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsxd09&label=Profile%20views&color=0e75b6&style=flat" alt="itsxd09" /> </p>
 
